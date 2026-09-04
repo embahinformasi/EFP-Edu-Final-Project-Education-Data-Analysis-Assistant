@@ -14,13 +14,13 @@ Pelajar, mahasiswa, guru, dosen, serta pengguna umum yang membutuhkan bantuan da
   <img src="CHATBOT%201.jpg" alt="EFP Landing Page" width="900">
 </p>
 
-### 💬 Chatbot
+### 🤖 Chatbot Groq & Gemini
 
 <p align="center">
   <img src="CHATBOT%202.jpg" alt="EFP Chatbot" width="900">
 </p>
 
-### 📎 Upload & Analisis Materi
+### 📎 Chatbot, Upload & Analisis Materi
 
 <p align="center">
   <img src="CHATBOT%203.jpg" alt="EFP Upload Materi" width="900">
