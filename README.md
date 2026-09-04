@@ -26,7 +26,7 @@ Pelajar, mahasiswa, guru, dosen, serta pengguna umum yang membutuhkan bantuan da
   <img src="CHATBOT%203.jpg" alt="EFP Upload Materi" width="900">
 </p>
 
-### 📊 Data Analysis
+### 📊 Feature 
 
 <p align="center">
   <img src="CHATBOT%204.jpg" alt="EFP Data Analysis" width="200">
